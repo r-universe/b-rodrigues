@@ -1,10 +1,10 @@
 [
   {
-    "package": "chronicler",
+    "package": "michelRodange",
     "oncran": true
   },
   {
-    "package": "michelRodange",
+    "package": "chronicler",
     "oncran": true
   }
 ]
