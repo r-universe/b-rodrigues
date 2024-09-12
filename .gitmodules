@@ -10,4 +10,4 @@
 	url = https://github.com/b-rodrigues/michelRodange
 [submodule "rix"]
 	path = rix
-	url = https://github.com/b-rodrigues/rix
+	url = https://github.com/ropensci/rix
