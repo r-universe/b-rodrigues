@@ -11,3 +11,6 @@
 [submodule "rix"]
 	path = rix
 	url = https://github.com/ropensci/rix
+[submodule "rixpress"]
+	path = rixpress
+	url = https://github.com/ropensci/rixpress
